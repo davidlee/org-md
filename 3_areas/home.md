@@ -1,4 +1,4 @@
-- paint loungeroom
+- Fix the fence (research)
 
-  Paint the laundry
-  Fix the fence
+- paint loungeroom
+- Paint the laundry
