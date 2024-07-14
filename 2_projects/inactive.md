@@ -1,0 +1,3 @@
+- cut guitar nut
+- deep clean room
+- strength training

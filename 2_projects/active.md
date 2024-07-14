@@ -1,0 +1,7 @@
+- # ACTIVE
+  - research + buy Una's birthday present
+  - fix coffee grinder
+- # BACKLOG
+  - get my bank cards sorted
+  - research
+    - sharpen knives

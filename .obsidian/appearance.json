@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Monaspace Argon,Hasklug Nerd Font,3270 Nerd Font",
+  "accentColor": "#566381",
+  "textFontFamily": "Monaspace Neon,JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

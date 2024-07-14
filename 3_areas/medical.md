@@ -1,4 +1,11 @@
-- cholesterol check
-- cut out cyst
-- dentist
+- Dentist checkup
+- Doctor
+  - cholesterol check
+  - Get lump on arm taken out
+  - Skin / mole check
+  - Cholesterol check
+- Psych
+  - sertraline
+  - dex
+  - beta blockers
 

@@ -1,0 +1,10 @@
+{
+	"id": "editor-autofocus",
+	"name": "Editor Autofocus",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Autofocus the editor when opening a new file.",
+	"author": "Mgussekloo",
+	"authorUrl": "https://github.com/mgussekloo",
+	"isDesktopOnly": false
+}
